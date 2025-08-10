@@ -54,7 +54,7 @@ Eager to grow my skills and knowledge to build a strong career in software devel
   [Repo](https://github.com/Haseeb-Khan-Official/digital-clock)
   
 - **CPC Webpage** — Created a basic webpage using HTML and CSS.  
-  [Live Demo](https://example.com/cpc-webpage) | [Repo](https://github.com/Haseeb-Khan-Official/MyProj/tree/main/UPgraded%20version)  
+  [Live Demo](https://haseeb-khan-official.github.io/MyProject-HTMLCSS-Basics-/) | [Repo](https://github.com/Haseeb-Khan-Official/MyProj/tree/main/UPgraded%20version)  
 
 - **Timer / Stopwatch** — Built a live timer app with JavaScript.  
   [Live Demo](https://stop-watchv1.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/timer/tree/main)  
