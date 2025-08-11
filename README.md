@@ -66,7 +66,7 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 ### Game
 
 - **Bouncing Ball Game** — Made a simple interactive game using HTML5 Canvas and JavaScript.  
-  [Live Demo](https://example.com/bouncing-ball) | [Repo](https://github.com/Haseeb-Khan-Official/Ball-jumping-game)
+  [Live Demo](https://ball-jumping-gamev1.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/Ball-jumping-game)
 
 ---
 
