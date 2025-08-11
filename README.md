@@ -85,7 +85,7 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/haseebkhanhk/)  
-📫 Email: [haseeb577221@gmail.com](mailto:haseeb577221@gmail.com)
+📫[![Email](https://img.shields.io/badge/-Email-blue?logo=Email&logoColor=white&style=flat-square)](mailto:haseeb577221@gmail.com)
 
 ---
 
