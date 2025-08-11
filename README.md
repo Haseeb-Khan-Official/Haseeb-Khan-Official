@@ -1,6 +1,6 @@
 # Hi there, I'm Haseeb Khan 👋
 
-Welcome to my GitHub profile!
+**Welcome to my GitHub profile!**
 
 ---
 
@@ -63,7 +63,7 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 - **To-Do List** — Developed a basic to-do list app using ReactJS (live demo available).  
   [Live Demo](https://to-do-listv1.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/todo-list)  
 
-### Game (just for fun)
+### Game
 
 - **Bouncing Ball Game** — Made a simple interactive game using HTML5 Canvas and JavaScript.  
   [Live Demo](https://example.com/bouncing-ball) | [Repo](https://github.com/Haseeb-Khan-Official/Ball-jumping-game)
@@ -85,7 +85,7 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/haseebkhanhk/)  
-📫[![Email](https://img.shields.io/badge/-Email-blue?logo=Email&logoColor=white&style=flat-square)](mailto:haseeb577221@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-blue?logo=Email&logoColor=white&style=flat-square)](mailto:haseeb577221@gmail.com)
 
 ---
 
@@ -93,5 +93,3 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 *“Bugs teach us more than perfection ever will; mistakes are the path to mastery.”*
 
 ---
-
-*Always learning. Always building.*  
