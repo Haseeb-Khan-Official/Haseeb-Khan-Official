@@ -72,7 +72,7 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 
 ## GitHub Stats
 
-![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haseeb-Khan-Official&show_icons=true&theme=radical&layout=compact)
 
 ---
 
