@@ -46,6 +46,8 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 ---
 
 ## Projects & Work Highlights
+- **Portfolio Website** — My personal portfolio built with ReactJS and Tailwind CSS to showcase my skills, projects, and contact details.  
+  [Live Demo](https://your-portfolio-link.com) | [Repo](https://github.com/Haseeb-Khan-Official/My_Portfolio)
 
 - **Fuel Price Prediction** — Developed ML & DL models to predict fuel prices.
 
