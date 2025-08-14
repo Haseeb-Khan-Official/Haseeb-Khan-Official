@@ -50,7 +50,7 @@ Eager to grow my skills and knowledge to build a strong career in software devel
   [Live Demo](https://haseebkhan-portfolio.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/My_Portfolio)
 
 - **Fuel Price Prediction** — Developed ML & DL models to predict fuel prices.
-
+  [Repo](https://github.com/Haseeb-Khan-Official/fuelPricePrediction)
 ### Some Basic projects 
 - **Digital Clock** — Created a functional digital clock with JavaScript.  
   [Repo](https://github.com/Haseeb-Khan-Official/digital-clock)
