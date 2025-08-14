@@ -46,18 +46,18 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 ---
 
 ## Projects & Work Highlights
-- **Portfolio Website** — My personal portfolio built with ReactJS and Tailwind CSS to showcase my skills, projects, and contact details.  
+- **Portfolio Website** — My personal portfolio built with ReactJS and Tailwind CSS to showcase my skills, projects, and contact details.
   [Live Demo](https://haseebkhan-portfolio.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/My_Portfolio)
 
 - **Fuel Price Prediction** — Developed ML & DL models to predict fuel prices.
   [Repo](https://github.com/Haseeb-Khan-Official/fuelPricePrediction)
 ### Some Basic projects 
-- **Digital Clock** — Created a functional digital clock with JavaScript.  
+- **Digital Clock** — Created a functional digital clock with JavaScript.
   [Repo](https://github.com/Haseeb-Khan-Official/digital-clock)
   
-- **CPC Webpage** — Created a basic webpage using HTML and CSS.  
-* [Live Demo 1](https://haseeb-khan-official.github.io/MyWebProjOld/) | [Repo](https://github.com/Haseeb-Khan-Official/MyWebProjOld)
-* [Live Demo 2](https://haseeb-khan-official.github.io/MyProjectNew/) | [Repo](https://github.com/Haseeb-Khan-Official/MyProjectNew)
+- **CPC Webpage** — Created a basic webpage using HTML and CSS.
+  [Live Demo 1](https://haseeb-khan-official.github.io/MyWebProjOld/) | [Repo](https://github.com/Haseeb-Khan-Official/MyWebProjOld)
+  [Live Demo 2](https://haseeb-khan-official.github.io/MyProjectNew/) | [Repo](https://github.com/Haseeb-Khan-Official/MyProjectNew)
   
 - **Timer / Stopwatch** — Built a live timer app with JavaScript.  
   [Live Demo](https://stop-watchv1.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/timer/tree/main)  
