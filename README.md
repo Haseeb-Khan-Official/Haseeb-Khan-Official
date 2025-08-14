@@ -91,7 +91,7 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 
 ---
 
-*Don’t watch the clock; do what it does — keep going.*
-*“Bugs teach us more than perfection ever will; mistakes are the path to mastery.”*
+* *Don’t watch the clock; do what it does — keep going.*
+* *“Bugs teach us more than perfection ever will; mistakes are the path to mastery.”*
 
 ---
