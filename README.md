@@ -46,29 +46,29 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 ---
 
 ## Projects & Work Highlights
-- **Portfolio Website** — My personal portfolio built with ReactJS and Tailwind CSS to showcase my skills, projects, and contact details.
-  [Live Demo](https://haseebkhan-portfolio.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/My_Portfolio)
+- **Portfolio Website** — My personal portfolio built with ReactJS and Tailwind CSS.
+  * [Live Demo](https://haseebkhan-portfolio.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/My_Portfolio)
 
 - **Fuel Price Prediction** — Developed ML & DL models to predict fuel prices.
-  [Repo](https://github.com/Haseeb-Khan-Official/fuelPricePrediction)
+  * [Repo](https://github.com/Haseeb-Khan-Official/fuelPricePrediction)
 ### Some Basic projects 
 - **Digital Clock** — Created a functional digital clock with JavaScript.
-  [Repo](https://github.com/Haseeb-Khan-Official/digital-clock)
+  * [Repo](https://github.com/Haseeb-Khan-Official/digital-clock)
   
 - **CPC Webpage** — Created a basic webpage using HTML and CSS.
-  [Live Demo 1](https://haseeb-khan-official.github.io/MyWebProjOld/) | [Repo](https://github.com/Haseeb-Khan-Official/MyWebProjOld)
-  [Live Demo 2](https://haseeb-khan-official.github.io/MyProjectNew/) | [Repo](https://github.com/Haseeb-Khan-Official/MyProjectNew)
+  * [Live Demo 1](https://haseeb-khan-official.github.io/MyWebProjOld/) | [Repo](https://github.com/Haseeb-Khan-Official/MyWebProjOld)
+  * [Live Demo 2](https://haseeb-khan-official.github.io/MyProjectNew/) | [Repo](https://github.com/Haseeb-Khan-Official/MyProjectNew)
   
 - **Timer / Stopwatch** — Built a live timer app with JavaScript.  
-  [Live Demo](https://stop-watchv1.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/timer/tree/main)  
+  * [Live Demo](https://stop-watchv1.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/timer/tree/main)  
 
 - **To-Do List** — Developed a basic to-do list app using ReactJS (live demo available).  
-  [Live Demo](https://to-do-listv1.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/todo-list)  
+  * [Live Demo](https://to-do-listv1.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/todo-list)  
 
 ### Game
 
 - **Bouncing Ball Game** — Made a simple interactive game using HTML5 Canvas and JavaScript.  
-  [Live Demo](https://ball-jumping-gamev1.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/Ball-jumping-game)
+  * [Live Demo](https://ball-jumping-gamev1.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/Ball-jumping-game)
 
 ---
 
