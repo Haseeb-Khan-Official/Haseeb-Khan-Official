@@ -1,6 +1,6 @@
 # Hi there, I'm Haseeb Khan 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Graduate+;Frontend+Web+Developer;HTML+CSS+JavaScript;React+Vite+TailwindCSS;Python+C%2B%2B&font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFFF)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Graduate%20;Frontend+Web+Developer;HTML;CSS;JavaScript;React;Vite;TailwindCSS;Python;C%2B%2B&font=Fira+Code&size=24&duration=4000&pause=1000&color=FFA500)
 
 ---
 
