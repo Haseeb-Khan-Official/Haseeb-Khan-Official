@@ -2,7 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi,+I’m+Haseeb+Khan+👋;Passionate+about+Web+Development+%26+AI;Building+Cool+Projects;Always+Learning+and+Sharing&font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFFF)
 
-
 ---
 
 ## About Me
