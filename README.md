@@ -1,4 +1,4 @@
-# Hi there, I'm Haseeb Khan 👋
+# Hi there, I'm Engr. Haseeb Khan 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer%20;Frontend+Web+Developer;HTML+CSS(TailwindCSS);JavaScript+ReactJS+Vite;Python+C%2B%2B&font=Fira+Code&size=24&duration=4000&pause=1000&color=1E90FF)
 
@@ -18,15 +18,16 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 **Proficient:**
 * HTML
 * CSS
+* Tailwind CSS
 * JavaScript
 * ReactJS
+* Vite
 * Python
 
 **Familiar with:**
 * Flutter
 * Dart
 * Next.js
-* Tailwind CSS
 * Bootstrap
 * Django
 * TensorFlow
@@ -65,8 +66,6 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 - **To-Do List** — Developed a basic to-do list app using ReactJS (live demo available).  
   * [Live Demo](https://to-do-listv1.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/todo-list)  
 
-### Game
-
 - **Bouncing Ball Game** — Made a simple interactive game using HTML5 Canvas and JavaScript.  
   * [Live Demo](https://ball-jumping-gamev1.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/Ball-jumping-game)
 
@@ -80,7 +79,8 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 
 ## Certifications & Courses
 
-- Programming Essentials in Python (Cisco Networking Academy)
+- [Programming Essentials in Python (Cisco Networking Academy)](https://drive.google.com/file/d/1FPNhDOwihd5xAe-hZFUBjkBmMP4hOl5R/view?usp=sharing)
+- [PEC Registered Engineer Certificate]
   
 ---
 
