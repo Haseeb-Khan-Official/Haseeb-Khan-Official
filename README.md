@@ -79,7 +79,7 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 
 ## Certifications & Courses
 
-- [Programming Essentials in Python (Cisco Networking Academy)](https://drive.google.com/file/d/1FPNhDOwihd5xAe-hZFUBjkBmMP4hOl5R/view?usp=sharing)
+- [Partner: PCAP - Programming Essentials in Python (Cisco Networking Academy Program)](https://drive.google.com/file/d/1FPNhDOwihd5xAe-hZFUBjkBmMP4hOl5R/view?usp=sharing)
 - PEC Registered Engineer Certificate
   
 ---
