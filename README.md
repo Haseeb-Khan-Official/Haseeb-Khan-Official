@@ -1,4 +1,4 @@
-![Frontend Developer Illustration](https://github.com/Haseeb-Khan-Official/Haseeb-Khan-Official/blob/0921eab2cecb88f89e6dbc2d7b142c07f1313799/new%20Dev%20Portrait.png)
+![Frontend Developer Illustration](https://github.com/Haseeb-Khan-Official/Haseeb-Khan-Official/blob/582538bcaaf1d51e892c9919d788f0913eb87ff9/newportrait.png)
 
 # Hi there, I'm Engr. Haseeb Khan 👋
 
