@@ -71,12 +71,6 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 
 ---
 
-## GitHub Stats
-
-![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haseeb-Khan-Official&show_icons=true&theme=radical&layout=compact)
-
----
-
 ## Certifications & Courses
 - Partner: PCAP - Programming Essentials in Python (Cisco Networking Academy Program
   * [ View Certificate ](https://drive.google.com/file/d/1FPNhDOwihd5xAe-hZFUBjkBmMP4hOl5R/view?usp=sharing)
