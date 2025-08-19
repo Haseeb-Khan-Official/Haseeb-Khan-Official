@@ -1,6 +1,6 @@
 # Hi there, I'm Engr. Haseeb Khan 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=courier+new&pause=1000&color=FF0000&width=435&lines=Software+Engineer;Frontend+Web+Developer;HTML++CSS++TailwindCSS;JavaScript++React++Vite;Python++C%2B%2B&repeat=true&center=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=courier+new&pause=1000&color=197EFF&center=true&vCenter=true&width=435&lines=Software+Engineer;Frontend+Web+Developer;HTML++CSS++TailwindCSS;JavaScript++React++Vite;Phython++C%2B%2B)](https://git.io/typing-svg)
 
 ---
 
