@@ -1,3 +1,5 @@
+![Frontend Developer Illustration](YOUR_RAW_IMAGE_URL_HERE)
+
 # Hi there, I'm Engr. Haseeb Khan 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&weight=600&letterSpacing=5px&duration=4500&pause=1000&color=7CACDE&center=true&vCenter=true&width=435&lines=Software+Engineer;Frontend+Web+Developer;HTML++CSS++TailwindCSS;JavaScript++React++Vite;Phython++C%2B%2B)](https://git.io/typing-svg)
