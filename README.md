@@ -1,4 +1,4 @@
-![Frontend Developer Illustration](YOUR_RAW_IMAGE_URL_HERE)
+![Frontend Developer Illustration](https://github.com/Haseeb-Khan-Official/Haseeb-Khan-Official/blob/624eb94ea97928c64936f7698a435ac88de2f6a1/download.png)
 
 # Hi there, I'm Engr. Haseeb Khan 👋
 
