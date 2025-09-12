@@ -30,7 +30,11 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 * Flutter
 * Dart
 * Next.js
+* Material UI
 * Bootstrap
+* MongoDB
+* NodeJS
+* ExpressJS
 * Django
 * TensorFlow
 * SQL
@@ -45,6 +49,7 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 - Postman
 - Jupyter-Notebook
 - Android Studio
+- Collab
 
 ---
 
