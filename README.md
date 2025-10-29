@@ -1,6 +1,6 @@
 <img src="https://github.com/Haseeb-Khan-Official/Haseeb-Khan-Official/blob/582538bcaaf1d51e892c9919d788f0913eb87ff9/newportrait.png"  alt="Frontend Developer Illustration" width="900" height="700" />
 
-# Hi there, I'm Engr. Haseeb Khan 👋  
+# <div align="center">Hi there, I'm Engr. Haseeb Khan 👋</div> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&weight=700&letterSpacing=5px&duration=4500&pause=1000&color=7CACDE&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Web+Developer;HTML+%7C+CSS+%7C+TailwindCSS+%7C+JavaScript;MongoDB+%7C+ExpressJS+%7C+ReactJS+%7C+NodeJS;Vite+%7C+Python)](https://git.io/typing-svg)
 
