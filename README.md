@@ -17,7 +17,7 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 ## 🧠 Skills  
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-circle)]()  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)]()  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=black&style=flat-square)]()  
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-circle)]()  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-circle)]()  
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-circle)]()  
@@ -96,8 +96,6 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/haseebkhanhk/)  
 [![Email](https://img.shields.io/badge/Email-150458?logo=gmail&logoColor=white&style=flat-circle)](mailto:haseeb577221@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/haseebkhanhk/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)]()
 
 ---
 
