@@ -2,7 +2,7 @@
 
 # Hi there, I'm Engr. Haseeb Khan 👋  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&weight=600&letterSpacing=5px&duration=4500&pause=1000&color=7CACDE&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Web+Developer;HTML+%7C+CSS+%7C+TailwindCSS;JavaScript+%7C+ReactJS;NodeJS+%7C+ExpressJS;MongoDB+%7C+Vite;Python+%7C+C++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&weight=700&letterSpacing=5px&duration=4500&pause=1000&color=7CACDE&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Web+Developer;HTML+%7C+CSS+%7C+TailwindCSS+JavaScript;MongoDB+%7C+ExpressJS+ReactJS+%7C+NodeJS;Vite+%7C+Python+%7C+C++)](https://git.io/typing-svg)
 
 ---
 
