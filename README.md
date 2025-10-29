@@ -1,4 +1,4 @@
-![Frontend Developer Illustration](https://github.com/Haseeb-Khan-Official/Haseeb-Khan-Official/blob/582538bcaaf1d51e892c9919d788f0913eb87ff9/newportrait.png)  
+<img src="https://github.com/Haseeb-Khan-Official/Haseeb-Khan-Official/blob/582538bcaaf1d51e892c9919d788f0913eb87ff9/newportrait.png"  alt="Frontend Developer Illustration" width="900" height="700" />
 
 # Hi there, I'm Engr. Haseeb Khan 👋  
 
