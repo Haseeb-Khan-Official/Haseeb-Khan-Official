@@ -16,46 +16,46 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 
 ## 🧠 Skills  
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)]()  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)]()  
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)]()  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)]()  
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)]()  
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)]()  
-[![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square)]()  
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)]()  
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square)]()  
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)]()  
-[![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)]()  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-circle)]()  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-circle)]()  
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-circle)]()  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-circle)]()  
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-circle)]()  
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-circle)]()  
+[![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-circle)]()  
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-circle)]()  
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-circle)]()  
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-circle)]()  
+[![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-circle)]()  
 
 ---
 ## Familiar with:
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)]()  
-[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square)]()  
-[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)]()  
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)]()  
-[![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white&style=flat-square)]()  
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)]()  
-[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square)]()  
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)]()  
-[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)]()  
-[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square)]()  
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square)]()  
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square)]()  
-[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square)]()  
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-circle)]()  
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-circle)]()  
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-circle)]()  
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-circle)]()  
+[![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white&style=flat-circle)]()  
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-circle)]()  
+[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-circle)]()  
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-circle)]()  
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-circle)]()  
+[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-circle)]()  
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-circle)]()  
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-circle)]()  
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-circle)]()  
 
 ---
 
 ## 🧰 Tools & Platforms  
 
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)]()  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)]()  
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)]()  
-[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat-square)]()  
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-circle)]()  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-circle)]()  
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-circle)]()  
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat-circle)]()  
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)]()  
-[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=black&style=flat-square)]()  
-[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-square)]()  
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)]()  
+[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=black&style=flat-circle)]()  
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-circle)]()  
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-circle)]()  
 
 ---
 
@@ -93,8 +93,8 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/haseebkhanhk/)  
-[![Email](https://img.shields.io/badge/-Email-blue?logo=Email&logoColor=white&style=flat-square)](mailto:haseeb577221@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-circle)](https://www.linkedin.com/in/haseebkhanhk/)  
+[![Email](https://img.shields.io/badge/-Email-blue?logo=Email&logoColor=white&style=flat-circle)](mailto:haseeb577221@gmail.com)
 
 ---
 
