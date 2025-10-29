@@ -96,7 +96,8 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/haseebkhanhk/)  
 [![Email](https://img.shields.io/badge/Email-150458?logo=gmail&logoColor=white&style=flat-circle)](mailto:haseeb577221@gmail.com)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/haseebkhanhk/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)]()
 
 ---
 
