@@ -1,57 +1,54 @@
-![Frontend Developer Illustration](https://github.com/Haseeb-Khan-Official/Haseeb-Khan-Official/blob/582538bcaaf1d51e892c9919d788f0913eb87ff9/newportrait.png)
+![Frontend Developer Illustration](https://github.com/Haseeb-Khan-Official/Haseeb-Khan-Official/blob/582538bcaaf1d51e892c9919d788f0913eb87ff9/newportrait.png)  
 
-#                            Hi there, I'm Engr. Haseeb Khan 👋
+# Hi there, I'm Engr. Haseeb Khan 👋  
 
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&weight=600&letterSpacing=5px&duration=4500&pause=1000&color=7CACDE&center=true&vCenter=true&width=435&lines=Software+Engineer;Frontend+Web+Developer;HTML++CSS++TailwindCSS;JavaScript++React++Vite;Phython++C%2B%2B)](https://git.io/typing-svg)
-
----
-
-## About Me
-
-I’m a Software Engineering graduate focused on becoming a full-stack developer.  
-Currently strengthening my frontend skills with ReactJS and basic Next.js.  
-Passionate about web development, problem-solving, and learning through real projects.  
-Eager to grow my skills and knowledge to build a strong career in software development.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&weight=600&letterSpacing=5px&duration=4500&pause=1000&color=7CACDE&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Web+Developer;HTML,+CSS,+TailwindCSS;JavaScript;ReactJS;MongoDB;ExpressJS;NodeJS;Vite;Python,+C++)](https://git.io/typing-svg)
 
 ---
 
-## Skills
-
-**Proficient:**
-* HTML
-* CSS
-* Tailwind CSS
-* JavaScript
-* ReactJS
-* Vite
-* Python
-
-**Familiar with:**
-* Flutter
-* Dart
-* Next.js
-* Material UI
-* Bootstrap
-* MongoDB
-* NodeJS
-* ExpressJS
-* Django
-* TensorFlow
-* SQL
-* Keras
-* scikit-learn
-* pandas/Numpy
-
-
-### Tools & Platforms
-- Git & GitHub  
-- VS Code
-- Postman
-- Jupyter-Notebook
-- Android Studio
-- Collab
+## About Me  
+I’m a Software Engineering graduate and a full-stack developer.  
+Currently strengthening my MERN Stack skills. Passionate about web development, problem-solving, and learning through real projects.  
+Eager to grow my skills and knowledge to build a strong career in software development.  
 
 ---
+
+## 🧠 Skills  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
+</p>
+
+---
+
+## 🧰 Tools & Platforms  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-icon.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" />
+</p>
+
+---
+
+⭐ **“Code. Build. Learn. Repeat.”**
+
 
 ## Projects & Work Highlights
 - **Portfolio Website** — My personal portfolio built with ReactJS and Tailwind CSS.
