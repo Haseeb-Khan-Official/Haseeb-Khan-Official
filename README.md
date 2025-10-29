@@ -13,6 +13,8 @@ Currently strengthening my MERN Stack skills. Passionate about web development, 
 Eager to grow my skills and knowledge to build a strong career in software development.  
 
 ---
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/haseebkhanhk/)
+![CSS3](https://skillicons.dev/icons?i=css)
 
 ## 🧠 Skills  
 
