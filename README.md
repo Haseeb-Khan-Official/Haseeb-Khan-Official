@@ -30,6 +30,22 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 
 ---
 
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)]()  
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square)]()  
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)]()  
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)]()  
+[![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white&style=flat-square)]()  
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)]()  
+[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square)]()  
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)]()  
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)]()  
+[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square)]()  
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square)]()  
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square)]()  
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square)]()  
+
+---
+
 ## 🧰 Tools & Platforms  
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)]()  
