@@ -39,7 +39,7 @@ Eager to grow my skills and knowledge to build a strong career in software devel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="50" height
+  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="50" height="50"/>
 
 
 ⭐ **“Code. Build. Learn. Repeat.”**
