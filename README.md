@@ -20,6 +20,7 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=black&style=flat-circle)]()  
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-circle)]()  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-circle)]()  
+[![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?logo=typescript&logoColor=black&style=flat-circle)]()  
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-circle)]()  
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-circle)]()  
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-circle)]()  
