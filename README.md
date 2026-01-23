@@ -82,8 +82,8 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 - **To-Do List** — Developed a basic to-do list app using ReactJS (live demo available).  
   * [Live Demo](https://to-do-listv1.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/todo-list)  
 
-- **Bouncing Ball Game** — Made a simple interactive game using HTML5 Canvas and JavaScript.  
-  * [Live Demo](https://ball-jumping-gamev1.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/Ball-jumping-game)
+<!-- **Bouncing Ball Game** — Made a simple interactive game using HTML5 Canvas and JavaScript.  
+  * [Live Demo](https://ball-jumping-gamev1.vercel.app/) | [Repo](https://github.com/Haseeb-Khan-Official/Ball-jumping-game) -->
 
 ---
 
