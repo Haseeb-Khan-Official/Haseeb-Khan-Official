@@ -28,7 +28,9 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-circle)]()  
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-circle)]()  
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-circle)]() 
-[![PHP](https://img.shields.io/badge/PHP-7952B3?logo=php&logoColor=white&style=flat-circle)]() 
+
+[![PHP](https://img.shields.io/badge/PHP-7952B3?logo=php&logoColor=white&style=flat-circle)]()
+
 [![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-circle)]()  
 
 ---
@@ -56,6 +58,8 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)]()  
 [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=black&style=flat-circle)]()  
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-circle)]()  
+[![Xampp](https://img.shields.io/badge/Xampp-4EAA25?logo=gnuxampp&logoColor=white&style=flat-circle)]()  
+
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-circle)]()  
 
 ---
