@@ -1,5 +1,5 @@
-<img src="https://github.com/Haseeb-Khan-Official/Haseeb-Khan-Official/blob/582538bcaaf1d51e892c9919d788f0913eb87ff9/newportrait.png"  alt="Frontend Developer Illustration" width="900" height="700" />
- 
+<!-- <img src="https://github.com/Haseeb-Khan-Official/Haseeb-Khan-Official/blob/582538bcaaf1d51e892c9919d788f0913eb87ff9/newportrait.png"  alt="Frontend Developer Illustration" width="900" height="700" />
+  -->
 # <div align="center">Hi there, I'm <span style="color:#ff5e20;">Engr.</span> Haseeb Khan 👋</div> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&weight=700&letterSpacing=5px&duration=4500&pause=1000&color=7CACDE&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Web+Developer;HTML+%7C+CSS+%7C+TailwindCSS+%7C+JavaScript;MongoDB+%7C+ExpressJS+%7C+ReactJS+%7C+NodeJS;Vite+%7C+TypeScript+%7C+PHP+%7C+Python)](https://git.io/typing-svg)
@@ -20,13 +20,15 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=black&style=flat-circle)]()  
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-circle)]()  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-circle)]()  
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-circle)]()  
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=black&style=flat-circle)]()  
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-circle)]()  
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-circle)]()  
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-circle)]()  
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-circle)]()  
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-circle)]()  
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-circle)]()  
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-circle)]() 
+[![PHP](https://img.shields.io/badge/PHP-7952B3?logo=php&logoColor=white&style=flat-circle)]() 
 [![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-circle)]()  
 
 ---
@@ -34,9 +36,7 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-circle)]()  
 [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-circle)]()  
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-circle)]()  
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-circle)]()  
 [![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white&style=flat-circle)]()  
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-circle)]()  
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-circle)]()  
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-circle)]()  
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-circle)]()  
