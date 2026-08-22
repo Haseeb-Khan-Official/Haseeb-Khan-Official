@@ -1,115 +1,150 @@
-<svg fill="none" viewBox="0 0 900 100" width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .carousel-container {
-          width: 100%;
-          overflow: hidden;
-          background: #0d1117;
-          border-radius: 8px;
-          padding: 20px 0;
-          box-sizing: border-box;
-          border: 1px solid #30363d;
-        }
-        .track {
-          display: flex;
-          width: max-content;
-          animation: scroll 25s linear infinite;
-          will-change: transform;
-        }
-        .item {
-          display: flex;
-          align-items: center;
-          gap: 10px;
-          padding: 0 24px;
-          color: #c9d1d9;
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-          font-weight: 600;
-          font-size: 14px;
-          white-space: nowrap;
-        }
-        .item svg {
-          width: 28px;
-          height: 28px;
-          flex-shrink: 0;
-        }
-        @keyframes scroll {
-          0% { transform: translate3d(0, 0, 0); }
-          100% { transform: translate3d(-50%, 0, 0); }
-        }
-      </style>
-      
-      <div class="carousel-container">
-        <div class="track">
-          <!-- First Set -->
-          <div class="item">
-            <svg viewBox="0 0 24 24" fill="none"><path fill="#E34F26" d="M1.5 0h21l-1.91 21.563L12 24l-8.59-2.437L1.5 0zm7.031 9.75l-.234-2.625h11.25l.234-2.625H5.438l.703 7.875h8.906l-.375 4.125-2.672.75-2.672-.75-.187-2.063H6.562l.375 4.313 5.063 1.406 5.063-1.406.703-7.875H8.531z"/></svg>
-            HTML5
-          </div>
-          <div class="item">
-            <svg viewBox="0 0 24 24" fill="none"><path fill="#1572B6" d="M1.5 0h21l-1.91 21.563L12 24l-8.59-2.437L1.5 0zm5.063 4.5l.234 2.625h11.25l-.234 2.625H6.797l.234 2.625h10.313l-.703 7.875-4.641 1.281-4.641-1.281-.312-3.375H4.406l.516 6.188 7.078 1.969 7.078-1.969 1.031-11.563H9.375l-.234-2.625h11.25l.234-2.625H6.563z"/></svg>
-            CSS3
-          </div>
-          <div class="item">
-            <svg viewBox="0 0 24 24" fill="none"><rect width="24" height="24" fill="#F7DF1E" rx="2"/><path fill="#000" d="M12.72 18.57c.73.44 1.63.74 2.58.74 1.37 0 2.1-.64 2.1-1.57 0-.96-.75-1.37-2.01-1.85l-.75-.28c-2.15-.81-3.56-1.84-3.56-4.13 0-2.42 1.9-4.22 4.88-4.22 1.68 0 2.91.43 3.84.97l-1.02 2.18c-.71-.39-1.63-.7-2.73-.7-1.12 0-1.78.53-1.78 1.27 0 .86.68 1.22 1.95 1.71l.75.28c2.47.93 3.68 2.01 3.68 4.3 0 2.76-2.13 4.47-5.32 4.47-1.87 0-3.37-.5-4.39-1.12l.78-2.03z"/></svg>
-            JavaScript
-          </div>
-          <div class="item">
-            <svg viewBox="0 0 24 24" fill="none"><path fill="#61DAFB" d="M12 9a3 3 0 100 6 3 3 0 000-6zm0-7a1.5 1.5 0 00-.33.037C7.382 2.378 2 5.86 2 12c0 6.14 5.382 9.623 9.67 9.963A1.5 1.5 0 0012 22a1.5 1.5 0 00.33-.037C16.618 21.622 22 18.14 22 12c0-6.14-5.382-9.623-9.67-9.963A1.5 1.5 0 0012 2z"/></svg>
-            React
-          </div>
-          <div class="item">
-            <svg viewBox="0 0 24 24" fill="none"><path fill="#339933" d="M12 2L2 7.7v11.5L12 25l10-5.8V7.7L12 2zm0 2.6l7.5 4.3v8.6L12 21.8l-7.5-4.3V8.9L12 4.6z"/></svg>
-            Node.js
-          </div>
-          <div class="item">
-            <svg viewBox="0 0 24 24" fill="none"><path fill="#47A248" d="M12 0s-6.3 7.8-6.3 12.8c0 3.5 2.8 6.3 6.3 6.3s6.3-2.8 6.3-6.3C18.3 7.8 12 0 12 0zm.4 17.5v-13s3.9 5.3 3.9 8.3c0 2.3-1.7 4.7-3.9 4.7z"/></svg>
-            MongoDB
-          </div>
-          <div class="item">
-            <svg viewBox="0 0 24 24" fill="none"><path fill="#777BB4" d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14H9v-2h2v2zm0-4H9V7h2v5z"/></svg>
-            PHP
-          </div>
-          <div class="item">
-            <svg viewBox="0 0 24 24" fill="none"><path fill="#3776AB" d="M11.87 0c-5.8 0-5.43 2.52-5.43 2.52l.01 2.61h5.5v.78H4.21S0 5.43 0 11.28c0 5.86 3.67 5.64 3.67 5.64h2.19v-3.08s-.12-3.67 3.61-3.67h5.56s3.44.06 3.44-3.32V3.41S19 0 11.87 0z"/></svg>
-            Python
-          </div>
+<svg fill="none" viewBox="0 0 900 90" width="100%" height="90" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1px; rx: 8px; }
+    .track {
+      animation: scroll 25s linear infinite;
+    }
+    .badge {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      fill: #c9d1d9;
+    }
+    .card {
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 1px;
+      rx: 6px;
+    }
+    @keyframes scroll {
+      0% { transform: translateX(0px); }
+      100% { transform: translateX(-1110px); }
+    }
+  </style>
 
-          <!-- Duplicate Set for Seamless Loop -->
-          <div class="item">
-            <svg viewBox="0 0 24 24" fill="none"><path fill="#E34F26" d="M1.5 0h21l-1.91 21.563L12 24l-8.59-2.437L1.5 0zm7.031 9.75l-.234-2.625h11.25l.234-2.625H5.438l.703 7.875h8.906l-.375 4.125-2.672.75-2.672-.75-.187-2.063H6.562l.375 4.313 5.063 1.406 5.063-1.406.703-7.875H8.531z"/></svg>
-            HTML5
-          </div>
-          <div class="item">
-            <svg viewBox="0 0 24 24" fill="none"><path fill="#1572B6" d="M1.5 0h21l-1.91 21.563L12 24l-8.59-2.437L1.5 0zm5.063 4.5l.234 2.625h11.25l-.234 2.625H6.797l.234 2.625h10.313l-.703 7.875-4.641 1.281-4.641-1.281-.312-3.375H4.406l.516 6.188 7.078 1.969 7.078-1.969 1.031-11.563H9.375l-.234-2.625h11.25l.234-2.625H6.563z"/></svg>
-            CSS3
-          </div>
-          <div class="item">
-            <svg viewBox="0 0 24 24" fill="none"><rect width="24" height="24" fill="#F7DF1E" rx="2"/><path fill="#000" d="M12.72 18.57c.73.44 1.63.74 2.58.74 1.37 0 2.1-.64 2.1-1.57 0-.96-.75-1.37-2.01-1.85l-.75-.28c-2.15-.81-3.56-1.84-3.56-4.13 0-2.42 1.9-4.22 4.88-4.22 1.68 0 2.91.43 3.84.97l-1.02 2.18c-.71-.39-1.63-.7-2.73-.7-1.12 0-1.78.53-1.78 1.27 0 .86.68 1.22 1.95 1.71l.75.28c2.47.93 3.68 2.01 3.68 4.3 0 2.76-2.13 4.47-5.32 4.47-1.87 0-3.37-.5-4.39-1.12l.78-2.03z"/></svg>
-            JavaScript
-          </div>
-          <div class="item">
-            <svg viewBox="0 0 24 24" fill="none"><path fill="#61DAFB" d="M12 9a3 3 0 100 6 3 3 0 000-6zm0-7a1.5 1.5 0 00-.33.037C7.382 2.378 2 5.86 2 12c0 6.14 5.382 9.623 9.67 9.963A1.5 1.5 0 0012 22a1.5 1.5 0 00.33-.037C16.618 21.622 22 18.14 22 12c0-6.14-5.382-9.623-9.67-9.963A1.5 1.5 0 0012 2z"/></svg>
-            React
-          </div>
-          <div class="item">
-            <svg viewBox="0 0 24 24" fill="none"><path fill="#339933" d="M12 2L2 7.7v11.5L12 25l10-5.8V7.7L12 2zm0 2.6l7.5 4.3v8.6L12 21.8l-7.5-4.3V8.9L12 4.6z"/></svg>
-            Node.js
-          </div>
-          <div class="item">
-            <svg viewBox="0 0 24 24" fill="none"><path fill="#47A248" d="M12 0s-6.3 7.8-6.3 12.8c0 3.5 2.8 6.3 6.3 6.3s6.3-2.8 6.3-6.3C18.3 7.8 12 0 12 0zm.4 17.5v-13s3.9 5.3 3.9 8.3c0 2.3-1.7 4.7-3.9 4.7z"/></svg>
-            MongoDB
-          </div>
-          <div class="item">
-            <svg viewBox="0 0 24 24" fill="none"><path fill="#777BB4" d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14H9v-2h2v2zm0-4H9V7h2v5z"/></svg>
-            PHP
-          </div>
-          <div class="item">
-            <svg viewBox="0 0 24 24" fill="none"><path fill="#3776AB" d="M11.87 0c-5.8 0-5.43 2.52-5.43 2.52l.01 2.61h5.5v.78H4.21S0 5.43 0 11.28c0 5.86 3.67 5.64 3.67 5.64h2.19v-3.08s-.12-3.67 3.61-3.67h5.56s3.44.06 3.44-3.32V3.41S19 0 11.87 0z"/></svg>
-            Python
-          </div>
-        </div>
-      </div>
-    </div>
-  </foreignObject>
+  <rect width="100%" height="100%" class="bg" />
+
+  <g class="track">
+    <!-- Set 1 -->
+    <g transform="translate(10, 25)">
+      <rect width="100" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" x="12" y="10" width="20" height="20" />
+      <text x="60" y="25" text-anchor="middle" class="badge">HTML5</text>
+    </g>
+
+    <g transform="translate(120, 25)">
+      <rect width="100" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" x="12" y="10" width="20" height="20" />
+      <text x="60" y="25" text-anchor="middle" class="badge">CSS3</text>
+    </g>
+
+    <g transform="translate(230, 25)">
+      <rect width="110" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" x="12" y="10" width="20" height="20" />
+      <text x="65" y="25" text-anchor="middle" class="badge">Tailwind</text>
+    </g>
+
+    <g transform="translate(350, 25)">
+      <rect width="110" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="12" y="10" width="20" height="20" />
+      <text x="65" y="25" text-anchor="middle" class="badge">JS / TS</text>
+    </g>
+
+    <g transform="translate(470, 25)">
+      <rect width="100" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="12" y="10" width="20" height="20" />
+      <text x="60" y="25" text-anchor="middle" class="badge">React</text>
+    </g>
+
+    <g transform="translate(580, 25)">
+      <rect width="110" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" x="12" y="10" width="20" height="20" />
+      <text x="65" y="25" text-anchor="middle" class="badge">Node.js</text>
+    </g>
+
+    <g transform="translate(700, 25)">
+      <rect width="100" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" x="12" y="10" width="20" height="20" style="filter: invert(1);" />
+      <text x="60" y="25" text-anchor="middle" class="badge">Express</text>
+    </g>
+
+    <g transform="translate(810, 25)">
+      <rect width="110" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" x="12" y="10" width="20" height="20" />
+      <text x="65" y="25" text-anchor="middle" class="badge">MongoDB</text>
+    </g>
+
+    <g transform="translate(930, 25)">
+      <rect width="80" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" x="10" y="10" width="20" height="20" />
+      <text x="50" y="25" text-anchor="middle" class="badge">PHP</text>
+    </g>
+
+    <g transform="translate(1020, 25)">
+      <rect width="90" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="10" y="10" width="20" height="20" />
+      <text x="55" y="25" text-anchor="middle" class="badge">Python</text>
+    </g>
+
+    <!-- Set 2 (Duplicate for Seamless Loop) -->
+    <g transform="translate(1120, 25)">
+      <rect width="100" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" x="12" y="10" width="20" height="20" />
+      <text x="60" y="25" text-anchor="middle" class="badge">HTML5</text>
+    </g>
+
+    <g transform="translate(1230, 25)">
+      <rect width="100" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" x="12" y="10" width="20" height="20" />
+      <text x="60" y="25" text-anchor="middle" class="badge">CSS3</text>
+    </g>
+
+    <g transform="translate(1340, 25)">
+      <rect width="110" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" x="12" y="10" width="20" height="20" />
+      <text x="65" y="25" text-anchor="middle" class="badge">Tailwind</text>
+    </g>
+
+    <g transform="translate(1460, 25)">
+      <rect width="110" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="12" y="10" width="20" height="20" />
+      <text x="65" y="25" text-anchor="middle" class="badge">JS / TS</text>
+    </g>
+
+    <g transform="translate(1580, 25)">
+      <rect width="100" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="12" y="10" width="20" height="20" />
+      <text x="60" y="25" text-anchor="middle" class="badge">React</text>
+    </g>
+
+    <g transform="translate(1690, 25)">
+      <rect width="110" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" x="12" y="10" width="20" height="20" />
+      <text x="65" y="25" text-anchor="middle" class="badge">Node.js</text>
+    </g>
+
+    <g transform="translate(1810, 25)">
+      <rect width="100" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" x="12" y="10" width="20" height="20" style="filter: invert(1);" />
+      <text x="60" y="25" text-anchor="middle" class="badge">Express</text>
+    </g>
+
+    <g transform="translate(1920, 25)">
+      <rect width="110" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" x="12" y="10" width="20" height="20" />
+      <text x="65" y="25" text-anchor="middle" class="badge">MongoDB</text>
+    </g>
+
+    <g transform="translate(2040, 25)">
+      <rect width="80" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" x="10" y="10" width="20" height="20" />
+      <text x="50" y="25" text-anchor="middle" class="badge">PHP</text>
+    </g>
+
+    <g transform="translate(2130, 25)">
+      <rect width="90" height="40" class="card" />
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="10" y="10" width="20" height="20" />
+      <text x="55" y="25" text-anchor="middle" class="badge">Python</text>
+    </g>
+  </g>
 </svg>
