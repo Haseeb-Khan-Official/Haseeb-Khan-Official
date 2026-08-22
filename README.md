@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Haseeb-Khan-Official/Haseeb-Khan-Official/main/assets/tech-stack.svg?sanitize=true" width="100%" alt="Tech Stack" />
 </p>
+
 ---
 
 ## About Me
