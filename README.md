@@ -94,6 +94,11 @@ Eager to grow my skills and knowledge to build a strong career in software devel
   * [ View Certificate ](https://drive.google.com/file/d/1FPNhDOwihd5xAe-hZFUBjkBmMP4hOl5R/view?usp=sharing)
     
 - PEC Registered Engineer Certificate
+
+- Partner: Graduate Engineer Trainee (GET) - 6-Month Professional Experience
+  * [ View Certificate ](https://drive.google.com/file/d/1udEt1U9NWWNOhnBXMwTw1l1HA8ifL0xE/view?usp=drive_link)
+    
+- PEC Registered Engineer Certificate
   
 ---
 
