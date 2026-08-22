@@ -6,26 +6,7 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&weight=700&letterSpacing=5px&duration=5500&pause=2000&center=true&vCenter=true&width=1000&lines=Software+Engineer;Full+Stack+Web+Developer;HTML+%7C+CSS+%7C+TailwindCSS+%7C+BootStrap;JavaScript+%7C+TypeScript;ReactJS+%7C+ExpressJS+%7C+NodeJS;MongoDB+%7C+MySQL;Vite+%7C+PHP+%7C+Python)](https://git.io/typing-svg)-->
 ---
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" />&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" />&nbsp;
-    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="40" />&nbsp;
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" />&nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" />&nbsp;
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" height="40" />&nbsp;
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" />&nbsp;
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" />&nbsp;
-    <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" height="40" />&nbsp;
-    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" />&nbsp;
-    <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="40" />&nbsp;
-    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" height="40" />&nbsp;
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" />&nbsp;
-    <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" />&nbsp;
-  </marquee>
-</p>
-
-
+![My Skills](https://raw.githubusercontent.com/Haseeb-Khan-Official/Haseeb-Khan-Official/main/tech-stack.svg)
 <!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nodejs,express,mongodb,vite,php,python,cpp,flutter,nextjs,django,tensorflow,postgres,git,github,vscode" />
