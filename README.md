@@ -73,6 +73,7 @@ Eager to grow my skills and knowledge to build a strong career in software devel
  
 - **PEDO HydroNet** — A Full stack hydrology-focused software system designed to digitize and improve the management of hydrological data.
   * Project Link will be available soon .
+  * This system designed to digitize and improve the management of hydrological data. This involved working with *React*, *PHP*, *MySQL*, *REST APIs*, *data processing*, *reporting*, *charts*, *rating curves*, *hydrographs*, and *database design*.
 
 - **CMS - Complaint Management System** — A digital complaint management system developed for the IT Section of PEDO to record, track, and manage complaints efficiently.
   * Will be available soon...
