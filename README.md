@@ -9,12 +9,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Haseeb-Khan-Official/Haseeb-Khan-Official/main/assets/tech-stack.svg?sanitize=true" width="100%" alt="Tech Stack" />
 </p>
-
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nodejs,express,mongodb,vite,php,python,cpp,flutter,nextjs,django,tensorflow,postgres,git,github,vscode" />
-  </a>
-</p> 
 ---
 
 ## About Me
