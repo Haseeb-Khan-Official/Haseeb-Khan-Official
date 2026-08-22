@@ -90,14 +90,21 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 ---
 
 ## Certifications & Courses
-- Partner: PCAP - Programming Essentials in Python (Cisco Networking Academy Program
+- Partner: PCAP - Programming Essentials in Python (Cisco Networking Academy Program)
   * [ View Certificate ](https://drive.google.com/file/d/1FPNhDOwihd5xAe-hZFUBjkBmMP4hOl5R/view?usp=sharing)
+
+- PEC Registered Engineer Certificate
+  * [ View Certificate ](https://drive.google.com/file/d/1xf6LBz2z-GwgM6jKg9v2qSbBbxfsm4s8/view?usp=drive_link)
 
 - PEC Graduate Engineer Trainee (GET) - 6-Month Professional Experience
   * [ View Certificate ](https://drive.google.com/file/d/1udEt1U9NWWNOhnBXMwTw1l1HA8ifL0xE/view?usp=drive_link)
     
-- PEC Registered Engineer Certificate
-  * [ View Certificate ](https://drive.google.com/file/d/1xf6LBz2z-GwgM6jKg9v2qSbBbxfsm4s8/view?usp=drive_link)
+- P&D 5-Month Industrial/Field Training (P&DD, PEDO, Irrigation, C&W)
+  * [ View Certificate ](https://drive.google.com/file/d/1-l5ruN60qct_5xPP-LY0T7EIfYVQ0AQm/view?usp=drive_link)
+    
+- NDU 1st Young Engineers Personality Development Programm
+  * [ View Certificate ](https://drive.google.com/file/d/16wgwH7tCiC2rE3pqt3bJOrZHv3f3vkea/view?usp=drive_link)
+    
   
   
 ---
