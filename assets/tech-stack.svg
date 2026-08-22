@@ -1,21 +1,9 @@
 <svg fill="none" viewBox="0 0 900 90" width="100%" height="90" xmlns="http://www.w3.org/2000/svg">
   <style>
     .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1px; rx: 8px; }
-    .track {
-      animation: scroll 25s linear infinite;
-    }
-    .badge {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-      font-size: 13px;
-      font-weight: 600;
-      fill: #c9d1d9;
-    }
-    .card {
-      fill: #161b22;
-      stroke: #30363d;
-      stroke-width: 1px;
-      rx: 6px;
-    }
+    .track { animation: scroll 25s linear infinite; }
+    .badge { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 600; fill: #c9d1d9; }
+    .card { fill: #161b22; stroke: #30363d; stroke-width: 1px; rx: 6px; }
     @keyframes scroll {
       0% { transform: translateX(0px); }
       100% { transform: translateX(-1110px); }
@@ -28,122 +16,122 @@
     <!-- Set 1 -->
     <g transform="translate(10, 25)">
       <rect width="100" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" x="12" y="10" width="20" height="20" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjRTM0RTI2IiBkPSJNMTA4LjQgMGgzOTUuMmwtMzYuMSA0MDQuNEwyNTYgNTEyIDkzLjEgNDA0LjR6Ii8+PHBhdGggZmlsbD0iI0VGNjUyMiIgZD0iTTI1NiA0NjkuM2wxMzUuMi0zNy40IDMxLjYtMzU0LjlIMjU2eiIvPjxwYXRoIGZpbGw9IiNFRUVFRUUiIGQ9Ik0yNTYgMjA3LjhoLTUxLjNsLTMuNS00MS42aDU0Ljh2LTQyLjdIMTU0LjhsMTAuNyAxMjEuM2g5MC41eiIvPjxwYXRoIGZpbGw9IiNFRUVFRUUiIGQ9Ik0yNTYgMzU1LjNMMjU1LjYgMzU2bC00OC41LTEzLjEtMy4xLTM0LjloLTQyLjdsNi4yIDcwLjcgODguMSAyNC41aDAuNHoiLz48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjU2IDIwNy44aDUxLjNsLTQuOSA1NC44LTY0LjQgMTcuNHY0NC40bDg4LjEtMjQuNSA5LjgtMTE0LjdIMjU2eiIvPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yNTYgMTIzLjVoOTUuNGwzLjgtNDIuN0gyNTZ6Ii8+PC9zdmc+" x="12" y="10" width="20" height="20" />
       <text x="60" y="25" text-anchor="middle" class="badge">HTML5</text>
     </g>
 
     <g transform="translate(120, 25)">
       <rect width="100" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" x="12" y="10" width="20" height="20" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjMTU3MkI2IiBkPSJNMTA4LjQgMGgzOTUuMmwtMzYuMSA0MDQuNEwyNTYgNTEyIDkzLjEgNDA0LjR6Ii8+PHBhdGggZmlsbD0iIzMzOThEQyIgZD0iTTI1NiA0NjkuM2wxMzUuMi0zNy40IDMxLjYtMzU0LjlIMjU2eiIvPjxwYXRoIGZpbGw9IiNFRUVFRUUiIGQ9Ik0yNTYgMjA3LjhoLTkxLjVsLTIuOC0zMS42aDk0LjNWMTMzLjVIMTU0LjhsOS42IDEwNi43aDkxLjZ6Ii8+PHBhdGggZmlsbD0iI0VFRUVFRSIgZD0iTTI1NiAzNTUuM0wyNTUuNiAzNTZsLTQ4LjUtMTMuMS0zLjEtMzQuOWgtNDIuN2w2LjIgNzAuNyA4OC4xIDI0LjVoMC40eiIvPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yNTYgMjA3LjhoOTEuNWwtOS42IDEwNi43LTY0LjQgMTcuNHY0NC40bDg4LjEtMjQuNSAxNS44LTE3Ny41SDI1NnoiLz48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjU2IDEyMy41aDk1LjRsMy44LTQyLjdIMjU2eiIvPjwvc3ZnPg==" x="12" y="10" width="20" height="20" />
       <text x="60" y="25" text-anchor="middle" class="badge">CSS3</text>
     </g>
 
     <g transform="translate(230, 25)">
       <rect width="110" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" x="12" y="10" width="20" height="20" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzA2QjZENCIgZD0iTTEyIDQuOGMtMy4yIDAtNS4yIDEuNi02IDQuOCAxLjItMS42IDIuNi0yLjIgNC4yLTEuOC45MTMuMjI4IDEuNTY1Ljg5IDIuMjg4IDEuNjI0QzEzLjY2NiAxMC42MTggMTUuMDI3IDEyIDE4IDEyYzMuMiAwIDUuMi0xLjYgNi00LjgtMS4yIDEuNi0yLjYgMi4yLTQuMiAxLjgtLjkxMy0uMjI4LTEuNTY1LS44OS0yLjI4OC0xLjYyNEMxNi4zMzcgNi4xODIgMTQuOTc2IDQuOCAxMiA0Ljh6bTYgNy4yYy0zLjIgMC01LjIgMS42LTYgNC44IDEuMi0xLjYgMi42LTIuMiA0LjItMS44LjkxMy4yMjggMS41NjUuODkgMi4yODggMS42MjQgMS4xNzcgMS4xOTQgMi41MzggMi41NzYgNS41MTIgMi41NzYgMy4yIDAgNS4yLTEuNiA2LTQuOC0xLjIgMS42LTIuNiAyLjItNC4yIDEuOC0uOTEzLS4yMjgtMS41NjUtLjg5LTIuMjg4LTEuNjI0QzguMzM3IDEzLjM4MiA2Ljk3NiAxMiA0IDEyeiIvPjwvc3ZnPg==" x="12" y="10" width="20" height="20" />
       <text x="65" y="25" text-anchor="middle" class="badge">Tailwind</text>
     </g>
 
     <g transform="translate(350, 25)">
       <rect width="110" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="12" y="10" width="20" height="20" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MyA2MyI+PHBhdGggZmlsbD0iI0Y3REYxRSIgZD0iTTAgMGg2M3Y2M0gweiIvPjxwYXRoIGQ9Ik02Ny4zMSA3My43MmMxLjkxIDMuMTYgNC4zOCA1LjkyIDggNS45MiAzLjI0IDAgNS4yMS0xLjU1IDUuMjEtMy42OSAwLTIuNTYtMS45Ni0zLjQ4LTUuMjEtNC45MWwtMS44MS0uNzhjLTUuNTUtMi4zNS05LjE4LTUuMDUtOS4xOC0xMS41MiAwLTYuODggNS4xNS0xMiAxMy40OS0xMiA1LjAxIDAgOC42OCAxLjkxIDExLjE2IDUuODVsLTYuMDkgMy45Yy0xLjU2LTIuNTYtMy41OS0zLjg3LTYuMDktMy44Ny0yLjggMC00LjY2IDEuNDctNC42NiAzLjU0IDAgMi42MSAxLjk2IDMuNjEgNS4wOSA0Ljk1bDEuODEuNzhjNi4xNiAyLjYxIDkuOTYgNS4yIDkuOTYgMTEuODkgMCA3Ljg3LTYuMDUgMTIuNjgtMTQuNzYgMTIuNjgtOC4xNSAwLTEyLjkyLTQuMi0xNS41Ny05LjM5em0tMzIuNzQgMGMxLjU2IDIuNTYgNC4wOSA0LjU3IDcuNDQgNC41NyAzLjA0IDAgNC43OC0xLjMxIDQuNzgtNS4xOFYyNC41aDkuODR2NDkuMmMwIDkuMDktNS40MiAxMy4zOS0xMy41OSAxMy4zOS03LjQxIDAtMTIuMDEtMy44OC0xNC40OC05LjIzeneiIHRyYW5zZm9ybT0ic2NhbGUoLjQ1KSIgZmlsbD0iIzAwMCIvPjwvc3ZnPg==" x="12" y="10" width="20" height="20" />
       <text x="65" y="25" text-anchor="middle" class="badge">JS / TS</text>
     </g>
 
     <g transform="translate(470, 25)">
       <rect width="100" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="12" y="10" width="20" height="20" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41LTEwLjIzMSAyMyAyMC40NjIiPj1jaXJjbGUgcj0iMi4wNSIgZmlsbD0iIzYxZGFmYiIvPjxnIHN0cm9rZT0iIzYxZGFmYiIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIj48ZWxsaXBzZSByeT0iNC44IiByeD0iMTEiLz48ZWxsaXBzZSByeT0iNC44IiByeD0iMTEiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPjxlbGxpcHNlIHJ5PSI0LjgiIHJ4PSIxMSIgdHJhbnNmb3JtPSJyb3RhdGUoMTIwKSIvPjwvZz48L3N2Zz4=" x="12" y="10" width="20" height="20" />
       <text x="60" y="25" text-anchor="middle" class="badge">React</text>
     </g>
 
     <g transform="translate(580, 25)">
       <rect width="110" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" x="12" y="10" width="20" height="20" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBmaWxsPSIjNTNGMzU0IiBkPSJNMTI4IDBsMTEwLjkgNjR2MTI4TDEyOCAyNTYgMTcgMTkyVjY0eiIvPjxwYXRoIGZpbGw9IiMzMzk5MzMiIGQ9Ik0xMjggMGwxMTAuOSA2NHYxMjhMMTI4IDI1NnoiLz48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMTI4IDM1LjNMMTUuMyAxMDAuN3YxMDNMMTI4IDIyNC43bDExMi43LTY0LjN2LTEwM3oiLz48cGF0aCBmaWxsPSIjMzM5OTMzIiBkPSJNMTI4IDM1LjN2MTg5LjRsMTEyLjctNjQuM3YtMTAzeiIvPjwvc3ZnPg==" x="12" y="10" width="20" height="20" />
       <text x="65" y="25" text-anchor="middle" class="badge">Node.js</text>
     </g>
 
     <g transform="translate(700, 25)">
       <rect width="100" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" x="12" y="10" width="20" height="20" style="filter: invert(1);" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0NDQ0NDQyIgZD0iTTAgM2g1LjFsMy41IDUuMkwxMi4xIDNoNS4xTDExLjIgMTAuNWw2LjQgMTAuNUgxMi40bDQtNi40TDEyLjYgMTVIMTIuNWwtNC4yIDZoLTUuMWw2LjctOS43eiIvPjwvc3ZnPg==" x="12" y="10" width="20" height="20" />
       <text x="60" y="25" text-anchor="middle" class="badge">Express</text>
     </g>
 
     <g transform="translate(810, 25)">
       <rect width="110" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" x="12" y="10" width="20" height="20" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzQ3QTI0OCIgZD0iTTEyIDBTNS43IDcuOCA1LjcgMTIuOGMwIDMuNSAyLjggNi4zIDYuMyA2LjNzNi4zLTIuOCA2LjMtNi4zQzE4LjMgNy44IDEyIDAgMTIgMHptLjQgMTcuNXYtMTNzMy45IDUuMyAzLjkgOC4zYzAgMi4zLTEuNyA0LjctMy45IDQuN3oiLz48L3N2Zz4=" x="12" y="10" width="20" height="20" />
       <text x="65" y="25" text-anchor="middle" class="badge">MongoDB</text>
     </g>
 
     <g transform="translate(930, 25)">
       <rect width="80" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" x="10" y="10" width="20" height="20" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjNzc3QkI0IiBkPSJNNjQgMDIuM2M3OS41IDAgNzkuNSA4NS42IDAgODUuNi03OS41IDAtNzkuNS04NS42IDAtODUuNnoiLz48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMzguMSA1Mi40YzAgOS4zLTguNyA4LjktMTUuNCA4LjloLTQuN3YxOC4zaC05LjlWMzUuM2gyNi43YzYuOCAwIDEzLjMuMSAxMy4zIDE3LjF6bS0yNC42LS42aDEwLjhjNC43IDAgNy41LS44IDcuNS00LjIgMC0zLjctMi44LTQuMS03LjUtNC4xSDEzLjV2OC4zem02MC44IDE5LjVoLTkuOVYzNS4zaDkuOXYxNS4zaDE2LjFWMzUuM2g5Ljl2MzZoLTkuOXYtMTUuNUg3NC4zem00NS40LTYuOWMwIDkuMy04LjcgOC45LTE1LjQgOC45aC00Ljd2MTguM2gtOS45VjM1LjNoMjYuN2M2LjggMCAxMy4zLjEgMTMuMyAxNy4xeiIvPjwvc3ZnPg==" x="10" y="10" width="20" height="20" />
       <text x="50" y="25" text-anchor="middle" class="badge">PHP</text>
     </g>
 
     <g transform="translate(1020, 25)">
       <rect width="90" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="10" y="10" width="20" height="20" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMTAgMTEwIj48cGF0aCBmaWxsPSIjMzc3NkFCIiBkPSJNNTQuNy40Yy0yOC4xIDAtMjYuMyAxMi4yLTI2LjMgMTIuMmwuMSAxMi42aDI2Ljhhdi45SDE3LjNTMCAyNS45IDAgNTMuOGMwIDI3LjggMTcuNCAyNi43IDE3LjQgMjYuN2gxMC40di0xNC42cy0uNi0xNy40IDE3LjEtMTcuNGgyNi40czE2LjMuMyAxNi4zLTE1LjdWMTYuN1M5MiAuNCA1NC43LjR6bS0xNS4xIDkuNmMyLjYgMCA0LjcgMi4xIDQuNyA0LjdzLTIuMSA0LjctNC43IDQuNy00LjctMi4xLTQuNy00LjcuMi00LjcgNC43LTQuN3oiLz48cGF0aCBmaWxsPSIjRkZENTM4IiBkPSJNNTUuNiAxMDkuNmMyOC4xIDAgMjYuMy0xMi4yIDI2LjMtMTIuMmwtLjEtMTIuNmgtMjYuOHYuOUg5Mi43UzExMCA4NC4xIDExMCA1Ni4yYzAtMjcuOC0xNy40LTI2LjctMTcuNC0yNi43SDgyLjl2MTQuNnMuNiAxNy40LTE3LjEgMTcuNEg0Mi40czE2LjMtLjMgMTYuMyAxNS43djE5LjlTMTguMyAxMDkuNiA1NS42IDEwOS42em0xNS4xLTkuNmMtMi42IDAtNC43LTIuMS00LjctNC43czIuMS00LjcgNC43LTQuNyA0LjcgMi4xIDQuNyA0LjctMi4xIDQuNy00LjcgNC43eiIvPjwvc3ZnPg==" x="10" y="10" width="20" height="20" />
       <text x="55" y="25" text-anchor="middle" class="badge">Python</text>
     </g>
 
     <!-- Set 2 (Duplicate for Seamless Loop) -->
     <g transform="translate(1120, 25)">
       <rect width="100" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" x="12" y="10" width="20" height="20" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjRTM0RTI2IiBkPSJNMTA4LjQgMGgzOTUuMmwtMzYuMSA0MDQuNEwyNTYgNTEyIDkzLjEgNDA0LjR6Ii8+PHBhdGggZmlsbD0iI0VGNjUyMiIgZD0iTTI1NiA0NjkuM2wxMzUuMi0zNy40IDMxLjYtMzU0LjlIMjU2eiIvPjxwYXRoIGZpbGw9IiNFRUVFRUUiIGQ9Ik0yNTYgMjA3LjhoLTUxLjNsLTMuNS00MS42aDU0Ljh2LTQyLjdIMTU0LjhsMTAuNyAxMjEuM2g5MC41eiIvPjxwYXRoIGZpbGw9IiNFRUVFRUUiIGQ9Ik0yNTYgMzU1LjNMM2M1LjYgMzU2bC00OC41LTEzLjEtMy4xLTM0LjloLTQyLjdsNi4yIDcwLjcgODguMSAyNC41aDAuNHoiLz48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjU2IDIwNy44aDUxLjNsLTQuOSA1NC44LTY0LjQgMTcuNHY0NC40bDg4LjEtMjQuNSA5LjgtMTE0LjdIMjU2eiIvPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yNTYgMTIzLjVoOTUuNGwzLjgtNDIuN0gyNTZ6Ii8+PC9zdmc+" x="12" y="10" width="20" height="20" />
       <text x="60" y="25" text-anchor="middle" class="badge">HTML5</text>
     </g>
 
     <g transform="translate(1230, 25)">
       <rect width="100" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" x="12" y="10" width="20" height="20" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjMTU3MkI2IiBkPSJNMTA4LjQgMGgzOTUuMmwtMzYuMSA0MDQuNEwyNTYgNTEyIDkzLjEgNDA0LjR6Ii8+PHBhdGggZmlsbD0iIzMzOThEQyIgZD0iTTI1NiA0NjkuM2wxMzUuMi0zNy40IDMxLjYtMzU0LjlIMjU2eiIvPjxwYXRoIGZpbGw9IiNFRUVFRUUiIGQ9Ik0yNTYgMjA3LjhoLTkxLjVsLTIuOC0zMS42aDk0LjNWMTMzLjVIMTU0LjhsOS42IDEwNi43aDkxLjZ6Ii8+PHBhdGggZmlsbD0iI0VFRUVFRSIgZD0iTTI1NiAzNTUuM0wyNTUuNiAzNTZsLTQ4LjUtMTMuMS0zLjEtMzQuOWgtNDIuN2w2LjIgNzAuNyA4OC4xIDI0LjVoMC40eiIvPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yNTYgMjA3LjhoOTEuNWwtOS42IDEwNi43LTY0LjQgMTcuNHY0NC40bDg4LjEtMjQuNSAxNS44LTE3Ny41SDI1NnoiLz48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjU2IDEyMy41aDk1LjRsMy44LTQyLjdIMjU2eiIvPjwvc3ZnPg==" x="12" y="10" width="20" height="20" />
       <text x="60" y="25" text-anchor="middle" class="badge">CSS3</text>
     </g>
 
     <g transform="translate(1340, 25)">
       <rect width="110" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" x="12" y="10" width="20" height="20" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzA2QjZENCIgZD0iTTEyIDQuOGMtMy4yIDAtNS4yIDEuNi02IDQuOCAxLjItMS42IDIuNi0yLjIgNC4yLTEuOC45MTMuMjI4IDEuNTY1Ljg5IDIuMjg4IDEuNjI0QzEzLjY2NiAxMC42MTggMTUuMDI3IDEyIDE4IDE2YzMuMiAwIDUuMi0xLjYgNi00LjgtMS4yIDEuNi0yLjYgMi4yLTQuMiAxLjgtLjkxMy0uMjI4LTEuNTY1LS44OS0yLjI4OC0xLjYyNEMxNi4zMzcgNi4xODIgMTQuOTc2IDQuOCAxMiA0Ljh6bTYgNy4yYy0zLjIgMC01LjIgMS42LTYgNC44IDEuMi0xLjYgMi42LTIuMiA0LjItMS44LjkxMy4y2OCAxLjU2NS44OSAyLjI4OCAxLjYyNCAxLjE3NyAxLjE5NCAyLjUzOCAyLjU3NiA1LjUxMiAyLjU3NiAzLjIgMCA1LjItMS42IDYtNC44LTEuMiAxLjYtMi42IDIuMi00LjIgMS44LS45MTMtLjIyOC0xLjU2NS0uODktMi4yODgtMS42MjRDOC4zMzcgMTMuMzgyIDYuOTc2IDEyIDQgMTJ6Ii8+PC9zdmc+" x="12" y="10" width="20" height="20" />
       <text x="65" y="25" text-anchor="middle" class="badge">Tailwind</text>
     </g>
 
     <g transform="translate(1460, 25)">
       <rect width="110" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="12" y="10" width="20" height="20" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MyA2MyI+PHBhdGggZmlsbD0iI0Y3REYxRSIgZD0iTTAgMGg2M3Y2M0gweiIvPjxwYXRoIGQ9Ik02Ny4zMSA3My43MmMxLjkxIDMuMTYgNC4zOCA1LjkyIDggNS45MiAzLjI0IDAgNS4yMS0xLjU1IDUuMjEtMy42OSAwLTIuNTYtMS45Ni0zLjQ4LTUuMjEtNC45MWwtMS44MS0uNzhjLTUuNTUtMi4zNS05LjE4LTUuMDUtOS4xOC0xMS41MiAwLTYuODggNS4xNS0xMiAxMy40OS0xMiA1LjAxIDAgOC42OCAxLjkxIDExLjE2IDUuODVsLTYuMDkgMy45Yy0xLjU2LTIuNTYtMy41OS0zLjg3LTYuMDktMy44Ny0yLjggMC00LjY2IDEuNDctNC42NiAzLjU0IDAgMi42MSAxLjk2IDMuNjEgNS4wOSA0Ljk1bDEuODEuNzhjNi4xNiAyLjYxIDkuOTYgNS4yIDkuOTYgMTEuODkgMCA3Ljg3LTYuMDUgMTIuNjgtMTQuNzYgMTIuNjgtOC4xNSAwLTEyLjkyLTQuMi0xNS41Ny05LjM5em0tMzIuNzQgMGMxLjU2IDIuNTYgNC4wOSA0LjU3IDcuNDQgNC41NyAzLjA0IDAgNC43OC0xLjMxIDQuNzgtNS4xOFYyNC41aDkuODR2NDkuMmMwIDkuMDktNS40MiAxMy4zOS0xMy41OSAxMy4zOS03LjQxIDAtMTIuMDEtMy44OC0xNC40OC05LjIzeneiIHRyYW5zZm9ybT0ic2NhbGUoLjQ1KSIgZmlsbD0iIzAwMCIvPjwvc3ZnPg==" x="12" y="10" width="20" height="20" />
       <text x="65" y="25" text-anchor="middle" class="badge">JS / TS</text>
     </g>
 
     <g transform="translate(1580, 25)">
       <rect width="100" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="12" y="10" width="20" height="20" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41LTEwLjIzMSAyMyAyMC40NjIiPj1jaXJjbGUgcj0iMi4wNSIgZmlsbD0iIzYxZGFmYiIvPjxnIHN0cm9rZT0iIzYxZGFmYiIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIj48ZWxsaXBzZSByeT0iNC44IiByeD0iMTEiLz48ZWxsaXBzZSByeT0iNC44IiByeD0iMTEiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPjxlbGxpcHNlIHJ5PSI0LjgiIHJ4PSIxMSIgdHJhbnNmb3JtPSJyb3RhdGUoMTIwKSIvPjwvZz48L3N2Zz4=" x="12" y="10" width="20" height="20" />
       <text x="60" y="25" text-anchor="middle" class="badge">React</text>
     </g>
 
     <g transform="translate(1690, 25)">
       <rect width="110" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" x="12" y="10" width="20" height="20" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBmaWxsPSIjNTNGMzU0IiBkPSJNMTI4IDBsMTEwLjkgNjR2MTI4TDEyOCAyNTYgMTcgMTkyVjY0eiIvPjxwYXRoIGZpbGw9IiMzMzk5MzMiIGQ9Ik0xMjggMGwxMTAuOSA2NHYxMjhMMTI4IDI1NnoiLz48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMTI4IDM1LjNMMTUu3AxMDAuN3YxMDNMMTI4IDIyNC43bDExMi43LTY0LjN2LTEwM3oiLz48cGF0aCBmaWxsPSIjMzM5OTMzIiBkPSJNMTI4IDM1LjN2MTg5LjRsMTEyLjctTY0LjN2LTEwM3oiLz48L3N2Zz4=" x="12" y="10" width="20" height="20" />
       <text x="65" y="25" text-anchor="middle" class="badge">Node.js</text>
     </g>
 
     <g transform="translate(1810, 25)">
       <rect width="100" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" x="12" y="10" width="20" height="20" style="filter: invert(1);" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0NDQ0NDQyIgZD0iTTAgM2g1LjFsMy41IDUuMkwxMi4xIDNoNS4xTDExLjIgMTAuNWw2LjQgMTAuNUgxMi40bDQtNi40TDEyLjYgMTVIMTIuNWwtNC4yIDZoLTUuMWw2LjctOS43eiIvPjwvc3ZnPg==" x="12" y="10" width="20" height="20" />
       <text x="60" y="25" text-anchor="middle" class="badge">Express</text>
     </g>
 
     <g transform="translate(1920, 25)">
       <rect width="110" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" x="12" y="10" width="20" height="20" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzQ3QTI0OCIgZD0iTTEyIDBTNS43IDcuOCA1LjcgMTIuOGMwIDMuNSAyLjggNi4zIDYuMyA2LjNzNi4zLTIuQgA2LjMtNi4zQzE4LjMgNy44IDEyIDAgMTIgMHptLjQgMTcuNXYtMTNzMy45IDUuMyAzLjkgOC4zYzAgMi4zLTEuNyA0LjctMy45IDQuN3oiLz48L3N2Zz4=" x="12" y="10" width="20" height="20" />
       <text x="65" y="25" text-anchor="middle" class="badge">MongoDB</text>
     </g>
 
     <g transform="translate(2040, 25)">
       <rect width="80" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" x="10" y="10" width="20" height="20" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjNzc3QkI0IiBkPSJNNjQgMDIuM2M3OS41IDAgNzkuNSA4NS42IDAgODUuNC03OS41IDAtNzkuNS04NS42IDAtODUuNnoiLz48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMzguMSA1Mi40YzAgOS4zLTguNyA4LjlBMTUuNCA4LjloLTQuN3YxOC4zaC05LjlWMzUuM2gyNi43YzYuOCAwIDEzLjMuMSAxMy4zIDE3LjF6bS0yNC42LS42aDEwLjhjNC43IDAgNy41LS44IDcuNS00LjIgMC0zLjctMi44LTQuMS03LjUtNC4xSDEzLjV2OC4zem02MC44IDE5LjVoLTkuOVYzNS4zaDkuOXYxNS4zaDE2LjFWMzUuM2g5Ljl2MzZoLTkuOXYtMTUuNUg3NC4zem00NS40LTYuOWMwIDkuMy04LjcgOC45LTE1LjQgOC45aC00Ljd2MTguM2gtOS45VjM1LjNoMjYuN2M2LjggMCAxMy4zLjEgMTMuMyAxNy4xeiIvPjwvc3ZnPg==" x="10" y="10" width="20" height="20" />
       <text x="50" y="25" text-anchor="middle" class="badge">PHP</text>
     </g>
 
     <g transform="translate(2130, 25)">
       <rect width="90" height="40" class="card" />
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="10" y="10" width="20" height="20" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMTAgMTEwIj48cGF0aCBmaWxsPSIjMzc3NkFCIiBkPSJNNTQuNy40Yy0yOC4xIDAtMjYuMyAxMi4yLTI2LjMgMTIuMmwuMSAxMi42aDI2Ljhhdi45SDE3LjNTMCAyNS45IDAgNTMuOGMwIDI3LjggMTcuNCAyNi43IDE3LjQgMjYuN2gxMC40di0xNC42cy0uNi0xNy40IDE3LjEtMTcuNGgyNi40czE2LjMuMyAxNi4zLTE1LjdWMTYuN1M5MiAuNCA1NC43LjR6bS0xNS4xIDkuNmMyLjYgMCA0LjcgMi4xIDQuNyA0LjdzLTIuMSA0LjctNC43IDQuNy00LjctMi4xLTQuNy00LjcuMi00LjcgNC43LTQuN3oiLz48cGF0aCBmaWxsPSIjRkZENTM4IiBkPSJNNTUuNiAxMDkuNmMyOC4xIDAgMjYuMy0xMi4yIDI2LjMtMTIuMmwtLjEtMTIuNmgtMjYuOHYuOUg5Mi43UzExMCA4NC4xIDExMCA1Ni4yYzAtMjcuOC0xNy40LTI2LjctMTcuNC0yNi43SDgyLjl2MTQuNnMuNiAxNy40LTE3LjEgMTcuNEg0Mi40czE2LjMtLjMgMTYuMyAxNS43djE5LjlTMTgu3AxMDkuNiA1NS42IDEwOS42em0xNS4xLTkuNmMtMi42IDAtNC43LTIuMS00LjctNC43czIuMS00LjcgNC43LTQuNyA0LjcgMi4xIDQuNyA0LjctMi4xIDQuNy00LjcgNC43eiIvPjwvc3ZnPg==" x="10" y="10" width="20" height="20" />
       <text x="55" y="25" text-anchor="middle" class="badge">Python</text>
     </g>
   </g>
