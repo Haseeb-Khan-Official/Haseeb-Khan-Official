@@ -4,7 +4,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&letterSpacing=3px&color=CBDDEB&center=true&vCenter=true&width=800&lines=I+AM+ENGINEER+HASEEB+KHAN)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&weight=700&letterSpacing=5px&duration=5500&pause=2000&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Web+Developer;HTML+%7C+CSS+%7C+TailwindCSS+%7C+JavaScript;MongoDB+%7C+ExpressJS+%7C+ReactJS+%7C+NodeJS;Vite+%7C+TypeScript+%7C+PHP+%7C+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&weight=700&letterSpacing=5px&duration=5500&pause=2000&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Web+Developer;HTML+%7C+CSS+%7C+TailwindCSS+%7C+BootStrap+%7C;JavaScript+TypeScript;ReactJS+%7C+ExpressJS+%7C+NodeJS;MongoDB+%7C+MySQL;Vite+%7C+%7C+PHP+%7C+Python)](https://git.io/typing-svg)
 
 ---
 
