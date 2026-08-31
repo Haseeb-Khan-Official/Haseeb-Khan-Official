@@ -58,7 +58,9 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 ## 🧰 Tools & Platforms  
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-circle)]() 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-circle)]()  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-circle)]()
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-circle)]()
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-circle)]()
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-circle)]()  
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat-circle)]()  
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)]()  
