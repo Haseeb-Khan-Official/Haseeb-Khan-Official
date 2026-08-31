@@ -33,8 +33,7 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-circle)]()  
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-circle)]()  
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-circle)]() 
-
-[![PHP](https://img.shields.io/badge/PHP-7952B3?logo=php&logoColor=white&style=flat-circle)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-circle)]()
 [![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-circle)]()  
 
 ---
@@ -47,6 +46,9 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-circle)]()  
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-circle)]()  
 [![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-circle)]()  
+[![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white&style=flat-circle)]()  
+[![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=flat-circle)]()  
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white&style=flat-circle)]()
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-circle)]()  
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-circle)]()  
 [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-circle)]()  
@@ -62,7 +64,8 @@ Eager to grow my skills and knowledge to build a strong career in software devel
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)]()  
 [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=black&style=flat-circle)]()  
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-circle)]() 
-[![Xampp](https://img.shields.io/badge/xampp-4EAA25?logo=xampp&logoColor=white&style=flat-circle)]()  
+[![Clerk](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=white&style=flat-circle)]()
+[![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white&style=flat-circle)]()
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-circle)]()  
 
 ---
